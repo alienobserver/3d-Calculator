@@ -13,7 +13,7 @@ To run the application run
 cd 3d-Calculator
 python main.py
 ```
-Screenshot from of the application
+Screenshot from the application
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/59918929/116933714-fdd96a00-ac74-11eb-967f-89cf613f5c85.png)
 
